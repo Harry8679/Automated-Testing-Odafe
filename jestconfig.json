@@ -1,0 +1,21 @@
+{
+   "collectCoverage": true,
+   "collectCoverageFrom": [
+      "**/*.{js,jsx}"
+   ],
+   "coverageThreshold":{
+      "global": {
+         "branches": 60,
+         "functions": 60
+       },
+       "./routes/productsApi.js" :{
+         "functions": 100
+       }
+   },
+   "coverageReporters": ["lcov"],
+   "coverageDirectory" : "./jestOutput/coverage-report/",
+   "globals":{
+      "rating": "5 star",
+      "thoughts": "The course precise and detailed"
+   }
+}
