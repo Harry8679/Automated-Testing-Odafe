@@ -62,7 +62,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:coverage/lcov-report/block-navigation.js
+SF:jestOutput/coverage-report/lcov-report/block-navigation.js
 FN:2,init
 FN:24,toggleClass
 FN:31,makeCurrent
@@ -126,7 +126,7 @@ BRF:15
 BRH:0
 end_of_record
 TN:
-SF:coverage/lcov-report/prettify.js
+SF:jestOutput/coverage-report/lcov-report/prettify.js
 FN:2,(anonymous_0)
 FN:2,k
 FN:2,ab
@@ -480,7 +480,7 @@ BRF:286
 BRH:0
 end_of_record
 TN:
-SF:coverage/lcov-report/sorter.js
+SF:jestOutput/coverage-report/lcov-report/sorter.js
 FN:2,(anonymous_0)
 FN:11,getTable
 FN:15,getTableHeader
