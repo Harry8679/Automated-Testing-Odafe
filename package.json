@@ -5,6 +5,7 @@
   "main": "app.js",
   "scripts": {
     "script": "node app.js",
+    "dev": "nodemon app.js",
     "test": "jest --config=jestconfig.json"
   },
   "author": "Odafe Idogho",
@@ -21,6 +22,6 @@
   },
   "devDependencies": {
     "jest": "^26.6.3",
-    "supertest": "^6.0.1"
+    "supertest": "^6.3.4"
   }
 }
